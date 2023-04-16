@@ -1,0 +1,16 @@
+name = "oqipo's smp client"
+author = "oqipo"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8464c05fdf5232143560b4f840981261ce23f324546731c38bff3cbdb555d644"
+
+[versions]
+fabric = "0.14.17"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.2"]
